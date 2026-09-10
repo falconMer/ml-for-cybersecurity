@@ -17,11 +17,23 @@ A three-part academic sequence from data preprocessing and visualization to clas
 
 ## Included academic work
 
-| # | Assignment | Portfolio write-up |
-|---:|---|---|
-| 1 | Data Preprocessing & Visualization | [`docs/01-data-preprocessing-and-visualization.md`](docs/01-data-preprocessing-and-visualization.md) |
-| 2 | Malware Classification with KNN & SVM | [`docs/02-malware-classification-knn-svm.md`](docs/02-malware-classification-knn-svm.md) |
-| 3 | Malware Classification with MLP | [`docs/03-malware-classification-mlp.md`](docs/03-malware-classification-mlp.md) |
+| # | Assignment | Portfolio write-up | Original PDF |
+|---:|---|---|---|
+| 1 | Data Preprocessing & Visualization | [`docs/01-data-preprocessing-and-visualization.md`](docs/01-data-preprocessing-and-visualization.md) | [PDF report](docs/01-data-preprocessing-and-visualization.pdf) |
+| 2 | Malware Classification with KNN & SVM | [`docs/02-malware-classification-knn-svm.md`](docs/02-malware-classification-knn-svm.md) | [PDF report](docs/02-malware-classification-knn-svm.pdf) |
+| 3 | Malware Classification with MLP | [`docs/03-malware-classification-mlp.md`](docs/03-malware-classification-mlp.md) | [PDF report](docs/03-malware-classification-mlp.pdf) |
+
+## Repository structure
+
+```text
+.
+├── README.md
+└── docs/
+    ├── *.md   # GitHub-friendly lab write-ups
+    └── *.pdf  # Original lab reports (privacy-redacted where noted)
+```
+
+The Markdown write-ups and supplied PDF reports form the complete available portfolio evidence. Screenshots, diagrams, and tool output are preserved inside the reports; standalone source code, captures, notebooks, and other artifacts are included only if supplied.
 
 ## Evidence policy
 
